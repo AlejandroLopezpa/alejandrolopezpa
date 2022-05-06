@@ -1,95 +1,30 @@
-### Hi there 👋<h2> I'm Shivam</h2>
+<h2> Hola, bienvenidos <<i>codificadores</i>></h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/desarrollo-web-1024x582.jpg' width='300"'>
 
-<h3> 👨🏻•💻 About Me </h3>
+[![Insignia de Linkedin](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava- 458b0117)](https://www.linkedin.com/in/suyash-srivastava-458b01173)
+[![Insignia de Gmail](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:suyash. srivastava14@gmail.com)
 
+Soy Suyash. Soy de Vellore, Tamil Nadu y actualmente estoy haciendo mi B.Tech del Instituto de Tecnología de Vellore 🏫. Me encanta hacer desarrollo web y estoy abierto a aprender nuevas tecnologías.
 
+## 💻 Proyectos
+* [COVID 19 TRACKER (visualización de gráficos e interfaz de usuario de globo en el que se puede hacer clic)] (https://suyash-srivastava.github.io/suyashsrivastava/COVID19)
+* [Aplicación meteorológica (de la API de OpenWeather)](https://suyash-srivastava.github.io/suyashsrivastava/Weather)
+* [Aplicación de notas] (https://suyash-srivastava.github.io/suyashsrivastava/Notes)
+* [Sitio web para ONG (en fase de desarrollo)](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
+* [Portafolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+## ⚡ Tecnologías
+- Desarrollo front-end usando **HTML, Javascript, CSS, Bootstrap**
+- Desarrollo backend usando **SQL,PHP**
+- Trabajó con **Directorios Activos**
+- Diseño Web Inclinado con Figma
+- Desarrollo de aplicaciones para Android usando **Android Studio**(Aún aprendiendo)
+- Resolver preguntas sobre estructuras de datos y algoritmos en **Java**
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+## 👋 Comunícate conmigo
+- 💬 Pregúntame sobre cualquier cosa.
+- 🖼️ Sitio del portafolio: [Portafolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
+- 💎 Dato curioso: pierdes automáticamente si no lo intentas.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
-
-<hr>
-
-
-
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
-
-<br><br>
-
-
-
-<hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
-
-
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
-
-<hr>
+![Estadísticas de Suyash github](https://github-readme-stats.vercel.app/api?username=Suyash-Srivastava&hide=["problemas"]&show_icons=true)
