@@ -11,7 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:aalh97pa@gmail.com)
 
 I am from Panama, currently studying administration in electronic commerce at the University of Panama 🏫.
-I love doing web development and data science.
+I love doing web development and data science. <br>
 Currently looking for a job.
 
 <!-- ## 💻 Projects
