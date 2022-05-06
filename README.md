@@ -22,13 +22,13 @@ I am currently looking for a job.
 * [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash) -->
 
 ## ⚡ Technologies 
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**
-- Backend development using **Python, Node, Postgresql, MongoDB**
-- Data Sciense **NumPy, Pandas, Sklearn, Beautifulsoup, Seaborn**
+- Front-end developer using **HTML, Javascript, CSS, Bootstrap**
+- Back-end development using **Python, Node, Postgresql, MongoDB**
+- Data Sciense **NumPy, Pandas, Sklearn, Beautiful soup, Seaborn**
 - Automatization **Selenium**
 - I am learning **React**
-- Mobile app development using **Flatter**(Still learning)
-- Solving Data structure and algorithm questions in **Python**
+- Mobile app development using **Flatter** (Still learning)
+- Solving the Data structure and algorithm questions in **Python**
 
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
