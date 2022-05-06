@@ -21,7 +21,7 @@ I am currently looking for a job.
 ## ⚡ Technologies 
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**
 - Backend development using **Python, Node, Postgresql, MongoDB**
-- Data Sciense ** NumPy, Pandas, Sklearn, Beautifulsoup, Seaborn**
+- Data Sciense **NumPy, Pandas, Sklearn, Beautifulsoup, Seaborn**
 - Automatization **Selenium**
 - I am learning **React**
 - Mobile app development using **Flatter**(Still learning)
