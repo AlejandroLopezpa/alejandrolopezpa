@@ -1,7 +1,6 @@
 <h2> Hi, I'm Abdiel Lopez! <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="50"></h2>
 
-<p><em>Software Enginner<a href=""></a><img src="" width="30"></br><a href=""></a><img src="" width="30"> 
-</em></p>
+<p><em>Software Enginner | Data Sciense </em></p>
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
