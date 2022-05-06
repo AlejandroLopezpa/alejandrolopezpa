@@ -1,6 +1,6 @@
 <h2> Hi, I'm Abdiel Lopez! <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="50"></h2>
 
-<p><em>Software Enginner<a href="">University of Brasilia</a><img src="" width="30"></br>Developer Consultant at <a href="">ThoughtWorks</a><img src="" width="30"> 
+<p><em>Software Enginner<a href=""></a><img src="" width="30"></br><a href=""></a><img src="" width="30"> 
 </em></p>
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
@@ -20,12 +20,13 @@ I am currently looking for a job.
 * [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash) -->
 
 ## ⚡ Technologies 
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **SQL,PHP**
-- Worked with **Active Directories**
-- Leaning Web Design with Figma
-- Android app development using **Android Studio**(Still learning)
-- Solving Data structure and algorithm questions in **Java**
+- Front-end development using **HTML, Javascript, CSS, Bootstrap**
+- Backend development using **Python, Node, Postgresql, MongoDB**
+- Data Sciense ** NumPy, Pandas, Sklearn, Beautifulsoup, Seaborn**
+- Automatization **Selenium**
+- I am learning **React**
+- Mobile app development using **Flatter**(Still learning)
+- Solving Data structure and algorithm questions in **Python**
 
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
