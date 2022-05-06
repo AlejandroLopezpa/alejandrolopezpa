@@ -41,4 +41,4 @@ I am currently looking for a job.
   <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://r /><br>
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
-</p
+                                                                        </p>
