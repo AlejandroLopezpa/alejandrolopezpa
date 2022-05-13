@@ -4,7 +4,7 @@
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/alejandro-l%C3%B3pez-5b306a1a3/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link(https://www.linkedin.com/in/alejandro-l%C3%B3pez-5b306a1a3/)](https://www.linkedin.com/in/alejandro-l%C3%B3pez-5b306a1a3/) 
 
 <a href="https://www.youtube.com/channel/UCiS1LucTw-3BVEbzRMsldhQ"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 
