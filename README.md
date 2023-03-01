@@ -26,7 +26,6 @@ Currently in looking for a job.
 - Data Science **NumPy, Pandas, Sklearn, Beautiful soup, Seaborn**
 - Automatization **Selenium**
 - I am learning **React**
-- Mobile app development using **Flatter** (Still learning)
 - Solving the Data structure and algorithm questions in **Python**
 
 ## 👋 Reach out to me 
