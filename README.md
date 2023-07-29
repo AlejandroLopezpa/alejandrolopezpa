@@ -19,11 +19,11 @@ I am from Panama, currently pursuing a degree in Electronic Commerce Administrat
 * [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash) -->
 
 ## ⚡ Technologies 
-- Front-end developer using **HTML, Javascript, CSS, Bootstrap**
+- Front-end developer using **HTML, Javascript, CSS, Bootstrap, React, Tailwind, Qwik**
 - Back-end development using **Python, Node, Postgresql, MongoDB**
 - Data Science **NumPy, Pandas, Sklearn, Beautiful Soup, Seaborn**
 - Automatization **Selenium**
-- I am learning **React**
+- I am learning **Flutter**
 - Solving the Data structure and algorithm questions in **Python**
 
 ## 👋 Reach out to me 
