@@ -9,7 +9,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:aalh97pa@gmail.com)
 
-I am from Panama, currently pursuing a degree in Electronic Commerce Administration. My passion lies in web development and data science. I consider myself a Full-Stack Developer with expertise in Python, JavaScript, and Data Analysis. Additionally, I have proficiency in Flutter and Dart, enabling me to create mobile applications and expand my skillset. I am always eager to learn new technologies and take on exciting challenges in the programming world
+I am from Panama, currently pursuing a degree in Electronic Commerce Administration. My passion lies in web development and data science. I consider myself a Full-Stack Developer with expertise in Python, JavaScript, and Data Analysis. I am always eager to learn new technologies and take on exciting challenges in the programming world
 
 <!-- ## 💻 Projects
 * [COVID 19 TRACKER (Graph Display and Clickable Globe UI)](https://suyash-srivastava.github.io/suyashsrivastava/COVID19)
